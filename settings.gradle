@@ -1,0 +1,2 @@
+rootProject.name = "A35Http02"
+include ':app'
